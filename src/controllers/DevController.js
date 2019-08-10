@@ -24,3 +24,6 @@ module.exports = {
         return res.json(dev);
     }
 }
+
+// boas práticas para construão de uma API
+// INDEX, SHOW, STORE, UPDATE, DELETE (5) = máximo de métodos que a gente pode ter em um controller
